@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-miel-y-veneno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Labios de miel y veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-y-veneno/) |
+| **Get License** | [Commercial Licensing for Labios de miel y veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-miel-y-veneno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de miel y veneno me invitan a pecar
+> Una mirada tuya y ya no me puedo escapar
+> Esta noche en la calle tú llevas la corona
+> Bailando en lo oscuro, tú eres la que me controla
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
