@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de miel y veneno
+
+This log tracks the cryptographic history and versioning for the song **Labios de miel y veneno** (labios-de-miel-y-veneno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:48:29.437108 | `v1` | `2bd4b2e457fb2c3d5e04e3b5152940466f6ec385d40a07f2b495b1fe55f2d8ce` | `39ec5a86acc571ba0964f0fd58fb4dadc8149e33d7548ccdcbba3a929f67302d` | `2026-06-14_labios-de-miel-y-veneno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
